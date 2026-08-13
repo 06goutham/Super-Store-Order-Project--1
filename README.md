@@ -1,5 +1,6 @@
 # Super-Store-Order-Project--1
 I developed a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data.This process involves several stages,including data preprocessing,data cleaning and visulization.
+
 ->I collect raw data from Kaggle Website.
 ->Understand the data 
 
