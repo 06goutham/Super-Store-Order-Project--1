@@ -1,4 +1,4 @@
-<img width="1872" height="655" alt="image" src="https://github.com/user-attachments/assets/2d362f66-6eff-4918-80dd-95850aa6f677" /># Super-Store-Order-Project--1
+# Super-Store-Order-Project--1
 I developed a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data.This process involves several stages,including data preprocessing,data cleaning and visulization.
 ->I collect raw data from Kaggle Website.
 ->Understand the data 
