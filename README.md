@@ -2,10 +2,8 @@
 I developed a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data.This process involves several stages,including data preprocessing,data cleaning and visulization.
 ->I collect raw data from Kaggle Website.
 ->Understand the data 
-->Cleaning data
-->Analyze the data
-->KPI'S
-->Adding meaning full insights
+
+Data Cleaning → Excel Formulas → Pivot Tables → Pivot Charts → Slicers → KPI Analysis → Dashboard → Business Insights
 
 Stage	                    Tool	      Status
 1. Dataset Collection	    Kaggle	   ✅ Done
