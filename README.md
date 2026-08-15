@@ -17,3 +17,20 @@ Stage	                    Tool	      Status
 8. KPI Cards	            Power BI	🔜
 9. Dashboard	            Power BI	🔜
 10. Business Insights	    Power BI	🔜
+
+Power Bi
+Dataset
+   ↓
+Excel Data Cleaning
+   ↓
+Excel Data Analysis
+   ↓
+Pivot Tables & Calculated Fields
+   ↓
+Power BI Data Modeling
+   ↓
+DAX Measures
+   ↓
+Interactive Dashboard
+   ↓
+Business Insights
