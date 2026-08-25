@@ -7,16 +7,29 @@ I developed a comprehensive project in Excel,creating multiple dashboards and ta
 Data Cleaning → Excel Formulas → Pivot Tables → Pivot Charts → Slicers → KPI Analysis → Dashboard → Business Insights
 
 Stage	                    Tool	      Status
-1. Dataset Collection	    Kaggle	   ✅ Done
+1. Dataset Collection	    Kaggle	  ✅ Done
 2. Data Cleaning	        Excel	     ✅ Done
 3. Data Analysis	        Excel	     ✅ Done
-4. Import Cleaned Data	  Power BI	 🔜 Next
-5. Data Transformation	  Power Query	🔜
-6. Data Modeling	        Power BI	🔜
-7. DAX Measures	          Power BI	🔜
-8. KPI Cards	            Power BI	🔜
-9. Dashboard	            Power BI	🔜
-10. Business Insights	    Power BI	🔜
+4. Import Cleaned Data	  Power BI	  🔜 Next
+5. Data Transformation	  Power Query 🔜
+6. Data Modeling	        Power BI	  🔜
+7. DAX Measures	        Power BI    🔜
+8. KPI Cards	           Power BI	  🔜
+9. Dashboard	           Power BI	  🔜
+10. Business Insights	  Power BI    🔜
+
+
+Stage	                    Tool	      Status
+1. Dataset Collection	  Kaggle	     ✅ Done
+2. Data Cleaning	        Excel	     ✅ Done
+3. Data Analysis	        Excel	     ✅ Done
+4. Import Cleaned Data	  Power BI	  ✅ Done
+5. Data Transformation	  Power Query ✅ Done
+6. Data Modeling	        Power BI	  ✅ Done
+7. DAX Measures	        Power BI    ✅ Done
+8. KPI Cards	           Power BI	  ✅ Done
+9. Dashboard	           Power BI    ✅ Done
+10. Business Insights	  Power BI    ✅ Done
 
 Power Bi
 Dataset
